@@ -52,7 +52,7 @@ Here are some of the projects I've worked on:
 ### 📌 Simple Login Page  
 **Basic authentication system**  
 - Built using HTML, CSS, and PHP  
-- Focused on understanding core web concepts  
+- Focused on understanding core authentication concepts  
 
 🔗 Repo: _https://github.com/jdmwihia/Login-Page-PHP_
 
