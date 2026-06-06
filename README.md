@@ -1,76 +1,86 @@
 # Hi there, I'm Jeremy Mwihia 👋
 
 🎓 **Computer Science Major at JKUAT University, Kenya**  
-💻 Interested in and passionate about all things tech — from **software development** and **cybersecurity** to **AI** and **DevOps**.
+💻 Passionate about **quantitative modeling**, **backend engineering**, and building systems that solve real problems.
 
-I enjoy building real-world applications, exploring new technologies, and continuously improving my skills through hands-on projects.
+I discovered that while I can build apps, what truly excites me is **building models** — simulations that help understand complex systems, quantify risk, and inform decisions.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 **Languages:**  
-C, C++, Java, Python, Kotlin, JavaScript, TypeScript, HTML, CSS  
+Python, Java, Kotlin, JavaScript, TypeScript, C, C++, HTML, CSS  
 
-**Frameworks & Tools:**  
-React, Flask, Django, Git, Linux  
+**Simulation & Analysis:**  
+NumPy, SciPy, SimPy, Monte Carlo methods, Discrete-Event Simulation
+
+**Backend & Frameworks:**  
+Flask, Django, Node.js, Git, Linux  
 
 **Databases:**  
-MySQL, PostgreSQL, MongoDB
+PostgreSQL, MySQL, MongoDB
 
 **Other:**  
-Machine Learning (Python), Firebase  
+Machine Learning (Python), Firebase, PowerBI, Tableau
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Here are some of the projects I've worked on:
+### 📊 Insurance Portfolio Risk Simulation
+**Monte Carlo simulation of insurance capital adequacy over 50 years**  
+- Built vectorized simulation with 100,000 parallel paths using NumPy
+- Modeled premium growth, price elasticity, claims severity, and disaster scenarios
+- Calculated Value-at-Risk (VaR) and ruin probability
+- *First project after discovering I prefer modeling over traditional app development*
 
-### 📌 MoveSmart KE  
+🔗 [GitHub Repo](https://github.com/jdmwihia/Insurance-Model)
+
+---
+
+### 🚦 MoveSmart KE  
 **Traffic prediction platform for Nairobi using Machine Learning**  
-- Built a web app that analyzes and predicts traffic patterns  
-- Focused on backend engineering  
-- Tech: React, Flask, MySQL, Python (ML tools)  
+- Backend lead for ML-powered traffic analysis platform
+- Designed REST APIs (Django) and data pipelines for AI engineers
+- Improved query efficiency by ~30%
 
-🔗 Repo: _https://github.com/orgs/MoveSmart-KE/repositories_
+🔗 [Organization Repos](https://github.com/orgs/MoveSmart-KE/repositories)
 
 ---
 
-### 📌 SemSync  
+### 📅 SemSync  
 **Academic organization & communication platform**  
-- Digital diary, calendar, and notification hub  
-- Enables lecturer-student communication  
-- Allows schedule & deadline updates  
-- Role: Frontend Design & Engineering  
-- Tech: React, Firebase  
+- Digital diary, calendar, and notification hub for university students
+- Role: Frontend Design & Engineering
+- Tech: React, Firebase
 
-🔗 Repo: _https://github.com/still-figuring/SemSync_
+🔗 [GitHub Repo](https://github.com/still-figuring/SemSync)
 
 ---
 
-### 📌 Simple Login Page  
+### 🔐 Simple Login Page  
 **Basic authentication system**  
-- Built using HTML, CSS, and PHP  
-- Focused on understanding core authentication concepts  
+- HTML, CSS, PHP implementation exploring core auth concepts
 
-🔗 Repo: _https://github.com/jdmwihia/Login-Page-PHP_
+🔗 [GitHub Repo](https://github.com/jdmwihia/Login-Page-PHP)
 
 ---
 
 ## 🎯 Current Goals
 
-- Keep building my skills and portfolio  
-- Work on impactful real-world projects  
-- Land innovative and impactful tech internships  
+- Build Port2Port: Discrete-event simulation for Kenya's dual-port system (Mombasa & Lamu)
+- Launch the student consulting club at JKUAT (SES Strategy Consulting)
+- Keep building simulation models that bridge technical depth and business decisions
 
 ---
 
 ## 📫 Let's Connect
+
 - Email: jeremwihia@gmail.com
-- GitHub: [@jdmwihia](https://github.com/jdmwihia)  
-- LinkedIn: _www.linkedin.com/in/jeremy-mwihia-399600370_
+- GitHub: [@jdmwihia](https://github.com/jdmwihia)
+- LinkedIn: [Jeremy Mwihia](https://www.linkedin.com/in/jeremy-mwihia-399600370)
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey!
+⭐ Feel free to explore my repositories and follow my journey from app developer to quantitative modeler.
