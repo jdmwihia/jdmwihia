@@ -28,6 +28,8 @@ Machine Learning (Python), Firebase, PowerBI, Tableau
 
 ## 🚀 Featured Projects
 
+---
+
 ### 📊 Insurance Portfolio Risk Simulation
 **Monte Carlo simulation of insurance capital adequacy over 50 years**  
 - Built vectorized simulation with 100,000 parallel paths using NumPy
