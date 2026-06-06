@@ -49,6 +49,17 @@ Machine Learning (Python), Firebase, PowerBI, Tableau
 
 ---
 
+## 🔄 Go Proxy Server
+**High-performance concurrent HTTP proxy server**  
+- Built in Go leveraging goroutines for concurrent connection handling
+- Implements full HTTP method forwarding (GET, POST, etc.)
+- Architecture includes planned caching layer for latency reduction
+- *My first systems programming project — interested in where Go can go*
+
+🔗 [GitHub Repo](https://github.com/jdmwihia/proxy-server)
+
+---
+
 ### 📅 SemSync  
 **Academic organization & communication platform**  
 - Digital diary, calendar, and notification hub for university students
