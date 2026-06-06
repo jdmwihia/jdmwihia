@@ -51,7 +51,7 @@ Machine Learning (Python), Firebase, PowerBI, Tableau
 
 ---
 
-## 🔄 Go Proxy Server
+### 🔄 Go Proxy Server
 **High-performance concurrent HTTP proxy server**  
 - Built in Go leveraging goroutines for concurrent connection handling
 - Implements full HTTP method forwarding (GET, POST, etc.)
