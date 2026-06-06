@@ -59,14 +59,6 @@ Machine Learning (Python), Firebase, PowerBI, Tableau
 
 ---
 
-### 🔐 Simple Login Page  
-**Basic authentication system**  
-- HTML, CSS, PHP implementation exploring core auth concepts
-
-🔗 [GitHub Repo](https://github.com/jdmwihia/Login-Page-PHP)
-
----
-
 ## 🎯 Current Goals
 
 - Build Port2Port: Discrete-event simulation for Kenya's dual-port system (Mombasa & Lamu)
